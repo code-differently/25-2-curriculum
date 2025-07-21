@@ -1,6 +1,9 @@
 # Project OOP
 *You down with OOP? (Yeah you know me!)*
 
+### Changelog
+- 7/21 @anthonydmays Initial draft
+
 ## Introduction
 
 For this project, you and your teammates are tasked with modeling a solution to a real-world problem using object-oriented and SOLID design principles, from ideation to implementation.
@@ -38,10 +41,10 @@ Design a CLI that allows users to interact with your application. Check out the 
 
 ## Timeline
 
-* Submit three user stories (Monday, 4/14, 5PM ET)
-* Receive approval for your user stories (Tuesday, 4/15, 1PM ET)
-* Finish code commits (Friday, 4/18, 1PM ET)
-* Give presentation (Monday, 4/21, 1PM ET)
+* Submit three user stories (Monday, 9/15, 5PM ET)
+* Receive approval for your user stories (Tuesday, 9/16, 1PM ET)
+* Finish code commits (Friday, 9/19, 1PM ET)
+* Give presentation (Monday, 4/22, 1PM ET)
 
 ## Grading
 

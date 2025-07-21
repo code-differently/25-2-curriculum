@@ -3,8 +3,7 @@
 For the next two weeks, you and your team will ideate and implement a working software system. You will have the opportunity to apply the skills that you have learned to solve an interesting problem or contribute a meaningful tool that improves our lives.
 
 ### Changelog
-- 5/9 @anthonydmays Clarified 3rd-party API requirement.
-- 4/24 @anthonydmays Published initial version
+- 7/21 @anthonydmays Initial draft
 
 ### Technical Requirements
 
@@ -39,7 +38,7 @@ To ensure the timely completion of your project, you will need to complete the f
     <tbody>
         <tr>
             <td>Submit user stories to your repo as GitHub issues</td>
-            <td>Thurs, May 8</td>
+            <td>Thurs, Oct 9</td>
         </tr>
         <tr>
             <td>
@@ -48,15 +47,15 @@ To ensure the timely completion of your project, you will need to complete the f
                     Schedule a review meeting here
                 </a>
             </td>
-            <td>Fri, May 9</td>
+            <td>Fri, Oct 10</td>
         </tr>
         <tr>
             <td>Hold Sprint planning meeting</td>
-            <td>Mon, May 12</td>
+            <td>Mon, Oct 13</td>
         </tr>
         <tr>
             <td>Begin implementing your designs</td>
-            <td>Mon, May 12</td>
+            <td>Mon, Oct 13</td>
         </tr>
         <tr>
             <td>Update your meeting notes document</td>
@@ -66,15 +65,15 @@ To ensure the timely completion of your project, you will need to complete the f
             <td>
                 Practice presentation sessions
             </td>
-            <td>Wed-Thurs, May 21-22</td>
+            <td>Wed-Thurs, Oct 22-23</td>
         </tr>
         <tr>
             <td>Presentations due</td>
-            <td>Thurs, May 22, EOD</td>
+            <td>Thurs, Oct 23, EOD</td>
         </tr>
         <tr>
             <td>Final presentations</td>
-            <td>Fri, May 23</td>
+            <td>Fri, Oct 24</td>
         </tr>
     </tbody>
 </table>
